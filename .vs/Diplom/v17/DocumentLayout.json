@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Notebook\\Desktop\\Diplom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|c:\\users\\notebook\\desktop\\diplom\\diplom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|solutionrelative:diplom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|c:\\users\\notebook\\desktop\\diplom\\diplom\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|solutionrelative:diplom\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Diplom\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\MainWindow.xaml",
+              "RelativeToolTip": "Diplom\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T13:47:56.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Diplom\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Diplom\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:47:55.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

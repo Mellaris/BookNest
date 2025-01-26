@@ -1,0 +1,15 @@
+C:\Users\Notebook\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\Notebook\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\Notebook\Desktop\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\MainWindow.g.cs
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\App.g.cs
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.cache
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.lref
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\MainWindow.baml
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\Diplom.g.resources
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\Notebook\Desktop\Diplom\Diplom\obj\Debug\Diplom.pdb

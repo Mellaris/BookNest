@@ -1,0 +1,110 @@
+﻿<Window x:Class="Diplom.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Diplom"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1440">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Background="White">
+            <!-- Header -->
+            <Grid Background="#EAF6FF" Height="100" VerticalAlignment="Top">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="BookNest" FontSize="32" FontWeight="Bold" Foreground="#007ACC"
+                           VerticalAlignment="Center" Margin="20,0,0,0" />
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,0,20,0">
+                    <Button Content="Home" Margin="5" />
+                    <Button Content="Books" Margin="5" />
+                    <Button Content="Authors" Margin="5" />
+                    <Button Content="News" Margin="5" />
+                </StackPanel>
+            </Grid>
+
+            <!-- Slider -->
+            <Border Background="#DFF2FF" Height="200" Margin="10">
+                <TextBlock Text="Start Your Journey In The World Of Books With Us!" FontSize="24" 
+                           VerticalAlignment="Center" HorizontalAlignment="Center" TextAlignment="Center" 
+                           Margin="10" />
+            </Border>
+
+            <!-- Top 10 Books -->
+            <StackPanel Margin="10">
+                <TextBlock Text="Top 10 Books" FontSize="20" FontWeight="Bold" Margin="0,10" />
+                <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled">
+                    <StackPanel Orientation="Horizontal">
+                        <!-- Пример книги -->
+                        <Border Margin="5" Width="150" Height="200" Background="Gray">
+                            <TextBlock Text="Book 1" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <Border Margin="5" Width="150" Height="200" Background="Gray">
+                            <TextBlock Text="Book 2" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <!-- Добавьте остальные книги -->
+                    </StackPanel>
+                </ScrollViewer>
+            </StackPanel>
+
+            <!-- New Authors -->
+            <StackPanel Margin="10">
+                <TextBlock Text="New Authors" FontSize="20" FontWeight="Bold" Margin="0,10" />
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Border BorderBrush="LightGray" BorderThickness="1" Margin="5" Height="150" />
+                    <Border BorderBrush="LightGray" BorderThickness="1" Margin="5" Height="150" Grid.Column="1" />
+                </Grid>
+            </StackPanel>
+
+            <!-- Latest News -->
+            <StackPanel Margin="10">
+                <TextBlock Text="Latest News" FontSize="20" FontWeight="Bold" Margin="0,10" />
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Border BorderBrush="LightGray" BorderThickness="1" Margin="5" Height="100" />
+                    <Border BorderBrush="LightGray" BorderThickness="1" Margin="5" Height="100" Grid.Column="1" />
+                </Grid>
+            </StackPanel>
+            <!-- Choose Your Genre -->
+            <StackPanel Margin="10">
+                <TextBlock Text="Choose Your Genre" FontSize="20" FontWeight="Bold" Margin="0,10" />
+                <WrapPanel>
+                    <!-- Пример жанра -->
+                    <Border Margin="5" Width="150" Height="100" Background="LightBlue">
+                        <TextBlock Text="Romance" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                    <Border Margin="5" Width="150" Height="100" Background="LightBlue">
+                        <TextBlock Text="Fantasy" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                    <!-- Добавьте остальные жанры -->
+                </WrapPanel>
+            </StackPanel>
+
+            <!-- Random Book Search -->
+            <StackPanel Margin="10">
+                <TextBlock Text="What Should I Read Today?" FontSize="20" FontWeight="Bold" Margin="0,10" />
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Margin="10">
+                        <TextBox  Margin="0,5" />
+                        <TextBox Margin="0,5" />
+                        <TextBox  Margin="0,5" />
+                        <TextBox  Margin="0,5" />
+                    </StackPanel>
+                    <Button Content="Find A Book" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>
