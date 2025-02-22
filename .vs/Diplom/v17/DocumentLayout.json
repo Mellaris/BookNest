@@ -3,11 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Notebook\\Desktop\\Diplom\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|c:\\users\\notebook\\desktop\\diplom\\diplom\\personalaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|solutionrelative:diplom\\personalaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|c:\\users\\notebook\\desktop\\diplom\\diplom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|solutionrelative:diplom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|c:\\users\\notebook\\desktop\\diplom\\diplom\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|c:\\users\\notebook\\desktop\\diplom\\diplom\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|solutionrelative:diplom\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|c:\\users\\notebook\\desktop\\diplom\\diplom\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|solutionrelative:diplom\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|c:\\users\\notebook\\desktop\\diplom\\diplom\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|solutionrelative:diplom\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|c:\\users\\notebook\\desktop\\diplom\\diplom\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|solutionrelative:diplom\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|C:\\Users\\Notebook\\Desktop\\Diplom\\diplom\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F71F051-7BB0-4A90-9F5C-6F71630666B8}|Diplom\\Diplom.csproj|solutionrelative:diplom\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +43,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "personalAccount.xaml",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\personalAccount.xaml",
+              "RelativeDocumentMoniker": "Diplom\\personalAccount.xaml",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\personalAccount.xaml",
+              "RelativeToolTip": "Diplom\\personalAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T12:37:16.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\LogIn.xaml.cs",
+              "RelativeDocumentMoniker": "Diplom\\LogIn.xaml.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\LogIn.xaml.cs",
+              "RelativeToolTip": "Diplom\\LogIn.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:24:38.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogIn.xaml",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\LogIn.xaml",
+              "RelativeDocumentMoniker": "Diplom\\LogIn.xaml",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\LogIn.xaml",
+              "RelativeToolTip": "Diplom\\LogIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T12:21:01.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "Diplom\\Registration.xaml.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\Registration.xaml.cs",
+              "RelativeToolTip": "Diplom\\Registration.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:12:35.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\Registration.xaml",
+              "RelativeDocumentMoniker": "Diplom\\Registration.xaml",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\Registration.xaml",
+              "RelativeToolTip": "Diplom\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T11:48:49.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Diplom\\MainWindow.xaml",
@@ -34,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Diplom\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Notebook\\Desktop\\Diplom\\Diplom\\MainWindow.xaml.cs",
               "RelativeToolTip": "Diplom\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowB4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T13:47:55.877Z",
               "EditorCaption": ""

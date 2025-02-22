@@ -10,25 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Diplom
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для personalAccount.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class personalAccount : Window
     {
-        public MainWindow()
+        public personalAccount()
         {
             InitializeComponent();
-        }
-
-        private void Image_MouseDown(object sender, MouseButtonEventArgs e)
-        {
-            new Registration().Show();
-            Close();
         }
     }
 }

@@ -10,22 +10,20 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Diplom
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для LogIn.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class LogIn : Window
     {
-        public MainWindow()
+        public LogIn()
         {
             InitializeComponent();
         }
-
-        private void Image_MouseDown(object sender, MouseButtonEventArgs e)
+        private void TextBlock_MouseDown(object sender, MouseButtonEventArgs e)
         {
             new Registration().Show();
             Close();
